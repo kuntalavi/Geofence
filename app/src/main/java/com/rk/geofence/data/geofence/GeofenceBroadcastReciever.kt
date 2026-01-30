@@ -11,7 +11,7 @@ import com.google.android.gms.location.GeofencingEvent
 import com.rk.geofence.data.room.dao.GeofenceDao
 import com.rk.geofence.data.room.dao.VisitDao
 import com.rk.geofence.data.room.entity.VisitEntity
-import com.rk.geofence.utils.DateUt.formatDuration
+import com.rk.geofence.presentation.utils.DateUt.formatDuration
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
