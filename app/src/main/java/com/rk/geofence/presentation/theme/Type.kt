@@ -1,4 +1,4 @@
-package com.rk.geofence.theme
+package com.rk.geofence.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

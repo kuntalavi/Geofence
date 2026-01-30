@@ -1,4 +1,4 @@
-package com.rk.geofence.theme
+package com.rk.geofence.presentation.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
